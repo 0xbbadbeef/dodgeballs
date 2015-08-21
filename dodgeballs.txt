@@ -1,0 +1,9 @@
+“dodgeballs”
+{
+
+	"base"		"base"
+	"title"		“DodgeBalls”
+	"maps"		“gm_”
+	"menusystem"	"1"
+
+}
